@@ -1,0 +1,24 @@
+.fondomenu{
+    background-image: url(../img/pug-801826_1920.jpg);
+    background-size: cover;
+   
+  
+    width: 100%;
+    height: 800px;
+    color: white;
+}
+
+.nav-item>a{
+    color: white;
+}
+.letras{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+    -ms-text-justify: distribute;
+    text-align: center;
+    font-weight: bold;
+}
+.abajo{
+ margin-top: 50em;
+}
