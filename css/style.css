@@ -50,3 +50,23 @@
     text-align: center;
     text-shadow: 1px 2px #999;
 }
+
+.fondomenu3{
+    background-image: url(../img/dogPerros.jpg);
+    background-size: cover;
+   background-position: center;
+  
+    width: 100%;
+    height: 700px;
+    color: black;
+}
+
+.cuadroIzq{
+    float: left;
+    padding-left: 10em;
+}
+
+.cuadroDer{
+    float: right;
+    padding-right: 10em;
+}
